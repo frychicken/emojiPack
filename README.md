@@ -6,9 +6,9 @@
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji 2019.
 
-With _**65**_ emojis, and _**5**_ of them animated!
+#### If you haven't already, you can watch the video commercial [here](https://null0verflow.xyz/IntroVideo/)
 
-If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
+With _**65**_ emojis, and _**5**_ of them animated!
 
 ```Full list:```
 
