@@ -3,7 +3,7 @@
 #### Important: If you're using mobile, click view as Desktop. Otherwise, you will not be able to view this.
 ### If you haven't already, you can watch the video commercial [here](https://null0verflow.xyz/IntroVideo/)
 
-### Since this does not win and hackweed is over, here are [psd](https://github.com/frychicken/TestingEmojiPack/tree/master/psd) and [afdesign](https://github.com/frychicken/TestingEmojiPack/tree/master/afdesign) file
+### Since this does not win and hackweed is over, here are [psd](https://github.com/frychicken/TestingEmojiPack/tree/master/psd) and [afdesign](https://github.com/frychicken/TestingEmojiPack/tree/master/afdesign) files
 
 <img src="coverArt/emojiPackWithCoolStuff.png" alt="memers" align="right" width="280"/>
 
